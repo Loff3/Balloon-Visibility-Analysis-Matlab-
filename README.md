@@ -23,3 +23,8 @@
   - Optimerade zoner för ballongplacering i 3D-volymen.
   - Tydlig påverkan av höjd på synlighet.
   - Riktningseffekter visualiserade via vektorfält.
+
+  ![Vy 1](docs/images/2026-04-29_15-45-32.png)
+  ![Vy 2](docs/images/2026-04-29_15-46-00.png)
+  ![Vy 3](docs/images/2026-04-29_15-46-08.png)
+  ![Vy 4](docs/images/2026-04-29_15-46-23.png)
