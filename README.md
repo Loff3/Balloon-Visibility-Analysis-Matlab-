@@ -1,7 +1,7 @@
-  # Balloon Visibility Analysis (Gävle)
+  # Balloon Visibility Analysis
 
   Identifierar optimal placering och höjd för en reklamballong för maximal synlighet från gångbara ytor i centrala Gävle genom 3D-viewshedanalys.
-
+![Vy 1](2026-04-29_15-45-32.png)
   ## Mål
   - Maximera synlighet från gångbar mark.
   - Jämföra synlighet mellan olika positioner, höjder och riktningar.
@@ -24,7 +24,7 @@
   - Tydlig påverkan av höjd på synlighet.
   - Riktningseffekter visualiserade via vektorfält.
 
-  ![Vy 1](docs/images/2026-04-29_15-45-32.png)
-  ![Vy 2](docs/images/2026-04-29_15-46-00.png)
-  ![Vy 3](docs/images/2026-04-29_15-46-08.png)
-  ![Vy 4](docs/images/2026-04-29_15-46-23.png)
+  ![Vy 1](2026-04-29_15-45-32.png)
+  ![Vy 2](2026-04-29_15-46-00.png)
+  ![Vy 3](2026-04-29_15-46-08.png)
+  ![Vy 4](2026-04-29_15-46-23.png)
